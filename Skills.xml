@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Resume.xslt"?>
+<!-- List of technical skills --> 
+<resume name="Dewey Nguyen">
+  <summary>
+An experienced software engineer with proven track record in software development and advanced Object Oriented Techniques looks to develop skills in developing complex robust software systems in a team driven environment.
+  </summary>
+  <education>
+    <institution name="University of Technology, Sydney">
+      <period start="2010" end="2013" />
+      <title>Master in Engineering in Software.</title>
+    </institution>
+    <institution name="University of Technology, Sydney">
+      <period start="2001" end="2007" />
+      <title>Bachelor of Engineering in Software.</title>
+    </institution>
+    <institution name="University of Technology, Sydney">
+      <period start="2005" end="2007" />
+      <title>Diploma in Engineering Practice.</title>
+    </institution>
+  </education>
+  <achievements>
+    <achievement year="2005">Faculty of Engineering Dean's List.</achievement>
+    <achievement year="2007">Faculty of Engineering Dean's List.</achievement>
+    <achievement year="2010">Golden Key membership.</achievement>
+  </achievements>
+  <experiences>
+    <organisation name="SIRCA" period="Jul.2009-Feb.2013"
+                  title="Software Engineer">
+      <mainitem desc="SIRCA is a provider of financial research data for various end users e.g. trading firms. SIRCA's Thomson Reuters Tick History (TRTH) project is large scale commercial software aimed at hedge funds. It is the world biggest database with continuous data extraction, processing and meta tagging.">
+         <subitem>
+		High volume tick data processing using C++ daemons - using dedicated high spec. Linux enterprise servers – over 140Gb of compressed data daily.
+	     </subitem>
+	     <subitem>
+	      C++, Perl, Bash Shell scripting.
+	     </subitem>
+	     <subitem>
+	      Upgrade of C++ daemons, diagnosing and fixing bugs.
+	     </subitem>
+	     <subitem>
+	      Big Data extraction using C++ on the grid: over 300 trading exchanges daily, and client requests on the grid.
+	     </subitem>
+	     <subitem>
+	      Data extraction using C++ pipe and filter engine with configurable capability.
+	     </subitem>
+	     <subitem>
+	      Interfacing coding for large MySQL databases – up to 1TB - by using C++, Perl and MySQL command line. Database schema and data migration using mentioned languages.
+	     </subitem>
+	     <subitem>
+	      Creation, upgrade, feature adding to Perl daemons, Linux scripts.
+	     </subitem>
+	     <subitem>
+Software packaging in Linux and build scripts.
+	     </subitem>
+	     <subitem>
+Writing Ruby, C++ unit and system tests.
+	     </subitem>
+	     <subitem>
+Client support in web front-end and API usage – roster rotation responsibility.
+	     </subitem>
+	     <subitem>
+24/7 emergency on-call system support in case of system failures – roster rotation responsibility.
+	     </subitem>
+	     <subitem>
+QA and Infrastructure support, software release support during software release sprint.
+	     </subitem>
+
+	     <subitem>
+<b>Technologies:</b> C++, Perl, Shell scripting, Ruby and Java languages. CentOS Linux servers, Apache web servers &amp; Tomcat, XMLRPC networking, Linux RPMs, Bamboo (continuous build), Crucible (code review tool) and Subversion code control.
+	     </subitem>
+
+      </mainitem>
+    </organisation>
+    <organisation name="PTG Global Pty. Ltd." period="2008-2009"
+                  title="Software Engineer (Fulltime)">
+      <mainitem desc="Software R&amp;D project (team based) for new business opportunity.">
+        <subitem>
+          Research possible architecture for the project.
+        </subitem>
+      </mainitem>
+      <mainitem desc="Domain Specific Language (DSL) - .NET 3.5:">
+        <subitem>CAD front end R&amp;D.</subitem>
+      </mainitem>
+      <mainitem desc="Windows Presentation Foundation GUI (WPF) - .NET 3.5:">
+        <subitem>Databinding: ModelView-View-Model.</subitem>
+        <subitem>Animations using Visual State Manager.</subitem>
+      </mainitem>
+      <mainitem desc="Research and integration of open source software that uses C# .NET 3.5 and XAML." />
+      <mainitem desc="Composite Application Block (CAB &amp; MEF)." />
+      <mainitem desc="Windows Workflow Foundation." />
+    </organisation>
+    <organisation name="Thales Australia Pty. Ltd." period="2006-2008"
+                  title="Graduate Software Engineer">
+      <mainitem desc="Thales sonar system project team member (development)." />
+      <mainitem desc="Object-Oriented system model design and implementation." />
+      <mainitem desc="Development of complex C++ MFC Graphical User Interface." />
+      <mainitem desc="Developing Re-Usable GUI library using OO Design using abstraction programming." />
+      <mainitem desc="OpenGL with MFC GUI display - OpenGL Object Picking &amp; DisplayList." />
+      <mainitem desc="STL/Boost: Standard Template Library." />
+      <mainitem desc="Native C++ development with Visual C++ 6." />
+      <mainitem desc="Relational Database (Access) &amp; SQL." />
+    </organisation>
+    <organisation name="Andrew Corporation Pty. Ltd." period="2005-2006"
+                  title="Junior Software Engineer (Fulltime)">
+      <mainitem desc="Development a software R&amp;D project (team based) for existing telecommunication software system." />
+      <mainitem desc="Native C++ and managed C++ .NET development with the Windows 2003 Server environment." />
+      <mainitem desc="TCP/IP &amp; UDP/IP." />
+      <mainitem desc=".NET 1.1 - XML processing." />
+      <mainitem desc="Software Lifecycle Development Process (Design Document &amp; Test Plan)." />
+      <mainitem desc="XML communication development " />
+      <mainitem desc="Database (Access) &amp; SQL." />
+      <mainitem desc="Multi-Threaded application." />
+    </organisation>
+  </experiences>
+  <skills>
+    <skill category="Technical">
+      <mainskill desc="High Level Object Oriented Design and Development Skill." />
+      <mainskill desc="Object-Oriented Patterns using UML:">
+        <subskill>Domain Modelling (OO Entity relationships).</subskill>
+        <subskill>Architectural patterns: Layers, Component and Connector, Model View Controller (MVC).</subskill>
+        <subskill>Design Patterns - using polymorphism (eg. Gammel patterns).</subskill>
+        <subskill>Dependency Injection</subskill>
+      </mainskill>
+      <mainskill desc="Source code control: IBM Clearcase &amp; Clearquest, Subversions, Git." />
+      <mainskill desc="SQL, Relational Database - Designing relational database and SQL usage." />
+      <mainskill desc="Ubuntu desktop user" />
+    </skill>
+
+    <skill category="Coding">
+      <mainskill desc="Skilled in C++, Perl, Bash scripting - 4+ years." />
+      <mainskill desc="Other programming languages I had some experience with:">
+        <subskill>Ruby</subskill>
+        <subskill>JavaScript (Dojo UI), HTML, CSS</subskill>
+        <subskill>see https://deweynguyen.info/RfD/app</subskill>
+      </mainskill>
+      <mainskill desc="GUI Programming: MFC &amp; JavaScript Dojo UI." />
+      <mainskill desc="STL - Standard Template Library - 6 years." />
+      <mainskill desc="MySQL databases" />
+      <mainskill desc="Operating Systems: Windows 2000/XP, Ubuntu, Linux Enterprise servers." />
+      <mainskill desc="Visual Studio 2008/2003 IDE &amp; Visual C++ 6, Eclipse, Sublime2, Vim." />
+      <mainskill desc="Sockets - TCP/IP or UDP/IP." />
+      <mainskill desc="XML, HTML, XSLT (eg. this resume web page)." />
+    </skill>
+  </skills>
+
+</resume>
