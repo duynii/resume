@@ -25,6 +25,28 @@ An experienced software engineer with proven track record in software developmen
     <achievement year="2010">Golden Key membership.</achievement>
   </achievements>
   <experiences>
+    <organisation name="Australian Centre of Field Robotics" period="2013-current"
+                  title="C++ Software Engineer (Fulltime)">
+      <mainitem desc="Software R&amp;D project (team based) for flight planning project - QANTAS.">
+        <subitem>
+          Internation airways, airports and waypoints.
+        </subitem>
+      </mainitem>
+      <mainitem desc="C++ with Boost &amp; STL">
+        <subitem>Linux servers: Ubuntu and RHEL</subitem>
+        <subitem>Parallel processing</subitem>
+      </mainitem>
+      <mainitem desc="Shell scripting">
+        <subitem>Bourne Shell scripts</subitem>
+      </mainitem>
+      <mainitem desc="Agile Development using Scrum">
+        <subitem>Continuous integration and testing</subitem>
+      </mainitem>
+      <mainitem desc="Robotics programing">
+        <subitem>Using Beaglebone boards</subitem>
+        <subitem>Network communications</subitem>
+      </mainitem>
+    </organisation>
     <organisation name="SIRCA" period="Jul.2009-Feb.2013"
                   title="Software Engineer">
       <mainitem desc="SIRCA is a provider of financial research data for various end users e.g. trading firms. SIRCA's Thomson Reuters Tick History (TRTH) project is large scale commercial software aimed at hedge funds. It is the world biggest database with continuous data extraction, processing and meta tagging.">
